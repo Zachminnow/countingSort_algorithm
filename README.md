@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Readme · MD
 Copy
 
@@ -104,3 +105,6 @@ Output will include:
 ![Performance Graph](docs/performance_graph.png)
 
 The graph illustrates the impact of the value range (k) on the runtime of Counting Sort. Runtime increases slightly as k grows while the number of elements remains constant.
+=======
+# counting_sort_algorithm
+>>>>>>> 60e0d01dfc3c2e92f44b1044719edaede7d9a0a2
